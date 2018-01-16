@@ -1,0 +1,21 @@
+#wrapper {
+    margin: 50px;
+    width: 880px;
+    box-sizing: border-box;
+    padding: 25px;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+label, input {
+    display: inline-block;
+    vertical-align: top;
+}
+
+label {
+    width: 170px;
+}
+
+#submitButton {
+    margin: 10px 0px 0px 170px;
+}
